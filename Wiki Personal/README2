@@ -1,0 +1,150 @@
+# Wiki Martí Codony Sacristan
+**Desenvolupador Full‑Stack · Apassionat per cinema i videojocs · Resident a Mataró, Catalunya**
+
+Sóc en **Martí Codony Sacristan**. M'agrada construir projectes ben documentats, aprendre noves tecnologies i compartir el que aprenc amb la comunitat. Aquesta wiki recull les meves preferències personals, habilitats tècniques, projectes i objectius professionals.
+
+---
+
+## Sobre mi
+**Nom:** Martí Codony Sacristan  
+**Ubicació:** Mataró, Catalunya, Espanya  
+**Correu:** marti.codony@example.com  
+**GitHub:** https://github.com/Codonyy  
+**Breu:** Desenvolupador amb interès en frontend, backend i automatització. M'agrada documentar processos i crear repositoris d'exemple per aprendre i ensenyar.
+
+---
+
+## Preferències personals
+
+### Pel·lícules preferides
+- *Interstellar*  
+- *La La Land*  
+- *El Senyor dels Anells*
+
+### Jocs preferits
+- *The Elder Scrolls V: Skyrim*  
+- *Fortnite*  
+- *Valorant*  
+- *Rocket League*  
+- *The Legend of Zelda Breath of the Wild*
+
+### Gèneres musicals preferits
+- Reggaeton  
+- Jazz  
+- Pop  
+- Rock  
+- Indie  
+- House
+
+### Mitjans de transport preferits
+- Cotxe  
+- Moto  
+- Bicicleta  
+- Tren  
+- Avió
+
+---
+
+## Habilitats i tecnologies
+**Llenguatges i eines que utilitzo habitualment**
+
+- **Llenguatges:** Python; JavaScript; TypeScript  
+- **Frontend:** React; HTML; CSS; SASS  
+- **Backend:** Node.js; Express; Django (bàsic)  
+- **Bases de dades:** PostgreSQL; SQLite; SQL  
+- **DevOps i Infra:** Docker; Git; GitHub Actions; AWS bàsic  
+- **Altres:** Testing (Jest; PyTest); Documentació en Markdown
+
+---
+
+## Taula de competències
+| **Àrea** | **Tecnologies** | **Nivell** |
+|---|---|---:|
+| Frontend | React; HTML; CSS | Intermedi |
+| Backend | Node.js; Express; Django | Intermedi |
+| Dades | Python; SQL; Pandas | Intermedi |
+| DevOps | Docker; GitHub Actions | Bàsic |
+
+---
+
+## Projectes destacats
+**Wiki de proves**  
+**Descripció:** Repositori amb exemples en Markdown per practicar documentació i workflows.  
+**Tecnologies:** Markdown; Git; GitHub Actions
+
+**Modificacions per a Skyrim**  
+**Descripció:** Scripts i notes de configuració per a mods de *Skyrim*.  
+**Tecnologies:** Scripting; configuració de mods
+
+---
+
+## Enllaços i contactes
+- **GitHub:** https://github.com/Codonyy  
+- **Portfoli:** https://marticodony.example.com  
+- **Correu:** marti.codony@example.com
+
+---
+
+## Imatge d'exemple
+![Wiki Martí Codony](https://via.placeholder.com/800x200.png?text=Wiki+Marti+Codony)
+
+---
+
+## Objectius a 12 mesos
+1. Millorar coneixements en DevOps aprofundint en Docker i GitHub Actions.  
+2. Contribuir a projectes open source amb almenys 3 pull requests.  
+3. Documentar un projecte complet amb guies d'instal·lació i desplegament.  
+4. Aprendre TypeScript i aplicar-lo en un projecte personal.
+
+---
+
+## Metodologia i prompts utilitzats
+**Prompt 1**  
+Revisa aquest README i proposa millores per fer-lo més professional i complet.
+
+**Prompt 2**  
+Millora aquesta introducció perquè sigui més professional i concisa.
+
+**Prompt 3**  
+Organitza aquesta informació utilitzant Markdown en seccions i subtítols i afegeix una taula de competències.
+
+**Prompt 4**  
+Converteix la llista de preferències en seccions ben formatades, afegeix un enllaç, una imatge placeholder i una nova secció d'objectius a 12 mesos.
+
+---
+
+## Propostes de Copilot que he modificat o rebutjat
+**Proposta 1**  
+- **Què proposava Copilot:** Afegir molts badges i GIFs animats a la part superior del README.  
+- **Què vaig fer:** He mantingut només una imatge estàtica placeholder i un enllaç a GitHub.  
+- **Per què:** Massa badges i GIFs poden fer el README massa carregat i menys professional.
+
+**Proposta 2**  
+- **Què proposava Copilot:** Reescriure la introducció amb un to excessivament corporatiu i llarg.  
+- **Què vaig fer:** He moderat el to per mantenir professionalitat però conservar la meva veu personal.  
+- **Per què:** La wiki personal ha de reflectir la personalitat de l'autor; un to massa formal perd autenticitat.
+
+---
+
+## Instruccions ràpides per commitejar
+1. Clona el repo si encara no ho has fet:  
+   `git clone https://github.com/Codonyy/`  
+2. Situa't al directori del repo:  
+   `cd <nom-del-repo>`  
+3. Crea el fitxer README2.md i enganxa el contingut d'aquest bloc.  
+4. Fes commits petits i temàtics (exemples):  
+   - `git add README2.md`  
+   - `git commit -m "feat: create README2.md with structured personal wiki"`  
+   - `git commit -m "chore: add skills list and competency table"`  
+   - `git commit -m "docs: add projects section and external links"`  
+   - `git commit -m "style: insert placeholder image and objectives section"`  
+5. Puja els canvis:  
+   `git push origin main`
+
+---
+
+## Passos següents recomanats
+- Substitueix els **placeholders** per captures reals i enllaços als repositoris.  
+- Guarda captures de pantalla de les interaccions amb Copilot per a la memòria del projecte.  
+- Fes almenys 4 commits separats mentre fas canvis i puja el repo.
+

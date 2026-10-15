@@ -146,3 +146,4 @@ Converteix la llista de preferències en seccions ben formatades, afegeix un enl
 - Substitueix els **placeholders** per captures reals i enllaços als repositoris.  
 - Guarda captures de pantalla de les interaccions amb Copilot per a la memòria del projecte.  
 - Fes almenys 4 commits separats mentre fas canvis i puja el repo.
+   

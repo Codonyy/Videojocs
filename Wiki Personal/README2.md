@@ -148,4 +148,5 @@ Converteix la llista de preferències en seccions ben formatades, afegeix un enl
 - Fes almenys 4 commits separats mentre fas canvis i puja el repo.
    
 
-   
+
+
